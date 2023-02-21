@@ -16,7 +16,7 @@
 
 ++ skill yang diperoleh dirucom ++
 -mengetik 10 jari
--fricodecamp.org responsive web desain (html,css,hand.javascript)
+-fricodecamp.org responsive web design (html,css,hand.javascript)
 -bootable linux
 -visual studio code
 -sololearn(introduction to html, introduction to javasctipt, introduction to css, coding for marketers, responsive web design, jQuery, web development fundementals)
